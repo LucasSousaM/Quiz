@@ -1,2 +1,2 @@
 # Quiz
-Aplicativo desenvolvido para um quiz de perguntas e respostas
+Aplicativo desenvolvido para um quiz de perguntas e respostas...
